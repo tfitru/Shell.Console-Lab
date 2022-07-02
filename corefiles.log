@@ -1,0 +1,14 @@
+cocorcorefiles.log
+|corefiles.log
+>>>>>>>corefiles.log
+grep
+grep lib
+grep -i lib corefiles.log
+<
+|find grep
+q
+:qw
+|find grep -i lib corefiles.log
+>>
+<<
+jobs
